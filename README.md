@@ -6,6 +6,7 @@ A web browser interface to search in multimedia documents based on multilayer ne
 `paper/`: contains the original CBMI 2018 paper and the Springer MTAP submitted paper.
 
 A demo video of the NHK use case is available here:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VfGwa6T94t8/0.jpg)](https://youtu.be/VfGwa6T94t8)
 
 ## Citation
